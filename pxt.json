@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "cao - Copy": "github:glisovickosta/united#master"
     },
     "files": [
         "main.blocks",
